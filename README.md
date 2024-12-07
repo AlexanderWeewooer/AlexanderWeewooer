@@ -1,16 +1,11 @@
-## Hi there 👋
+## ‧₊˚🖇️✩ Hello! ₊˚🎧⊹♡
 
-<!--
-**AlexanderWeewooer/AlexanderWeewooer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#₊˚ʚ 🌱 ₊˚✧ ﾟ. I’m currently working on the Advent of Code 2024! ₊˚ʚ 🌱 ₊˚✧ ﾟ.
+#𓍢ִ໋☕️✧˚ ༘ ⋆ I’m currently learning PHP+SQL on Databases. 𓍢ִ໋☕️✧˚ ༘ ⋆
+  
+- 📫 How to reach me: alexandraspov@gmail.com
+- ⚡Future plans: I would really like making small apps for personal use, currently planning one. One day I'd like to make my own versione of a Notion/Evernote/Todoist with also a calendar. But I'm just dreaming ✨
+  
+Other things:
+-🎨 I love drawing and making graphics for any project I work on.
+-🎬 I sometimes film vlogs for fun.
